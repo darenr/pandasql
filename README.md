@@ -47,7 +47,7 @@ joins and aggregations are also supported
 >>> q = """SELECT
         m.date, m.beef, b.births
      FROM
-        meats m
+        meat m
      INNER JOIN
         births b
            ON m.date = b.date;"""
