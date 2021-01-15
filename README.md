@@ -1,6 +1,10 @@
 pandasql
 ========
 
+# Forked project with upstream pull requests merged.
+
+Origin: https://github.com/yhat/pandasql
+
 `pandasql` allows you to query `pandas` DataFrames using SQL syntax. It works
 similarly to `sqldf` in R. `pandasql` seeks to provide a more familiar way of
 manipulating and cleaning data for people new to Python or `pandas`.
