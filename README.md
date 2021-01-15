@@ -3,7 +3,7 @@ pandasql
 
 # Forked project with upstream pull requests merged.
 
-Origin: https://github.com/yhat/pandasql
+[Origin](https://github.com/yhat/pandasql).
 
 `pandasql` allows you to query `pandas` DataFrames using SQL syntax. It works
 similarly to `sqldf` in R. `pandasql` seeks to provide a more familiar way of
@@ -91,8 +91,4 @@ queries with parameters are supported
 ```
 
 More information and code samples available in the [examples](https://github.com/yhat/pandasql/blob/master/examples/demo.py)
- folder or on [our blog](http://blog.yhathq.com/posts/pandasql-sql-for-pandas-dataframes.html).
-
-
-
-[![Analytics](https://ga-beacon.appspot.com/UA-46996803-1/pandasql/README.md)](https://github.com/yhat/pandasql)
+ folder.
